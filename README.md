@@ -2,7 +2,7 @@
 
 I'm interested in how AI thinks, talks, and gets misunderstood.
 
-Not a developer. I explore from the language side — how things are named, described, explained. How a product's words shape what users think it can do.
+Not a developer. I explore from the language side — how things are named, described, explained, and how a product's words shape what users think it can do.
 
 This is where I document what I'm learning and building.
 
